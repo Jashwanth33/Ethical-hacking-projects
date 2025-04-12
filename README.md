@@ -26,7 +26,7 @@ This Python script evaluates the strength of a password based on security best p
 import re
 
 def check_password_strength(password):
-    length_criteria = len(password) >= 8
+    length_criteria = len(password) >= 16
     uppercase_criteria = bool(re.search(r'[A-Z]', password))
     lowercase_criteria = bool(re.search(r'[a-z]', password))
     number_criteria = bool(re.search(r'[0-9]', password))
