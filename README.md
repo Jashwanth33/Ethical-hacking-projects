@@ -18,7 +18,7 @@ This Python script evaluates the strength of a password based on security best p
 1. Run the script.
 2. Enter a password when prompted.
 3. The script evaluates the password and provides strength feedback.
-
+https://mega.nz/folder/4VFXBKpT#qEzhyi-DmXLLSXfQuAJuyg
 ---
 
 ## Code
